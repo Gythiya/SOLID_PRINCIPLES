@@ -23,7 +23,6 @@ class Mage implements GameCharacter {
 }
 
 public class OCP {
-
     public static void main(String[] args) {
 
         GameCharacter warrior = new Warrior();
